@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StayTuned": {
+      "commandName": "Project"
+    },
+    "newProfile1": {
+      "commandName": "Project"
+    }
+  }
+}
